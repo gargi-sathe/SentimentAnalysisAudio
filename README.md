@@ -15,7 +15,7 @@ The model is used to predict emotions.
 4. [Usage](#usage)
 5. [Output](#output)
 6. [File Structure](#file-structure)
-7. [License](#license)
+
 
 ---
 
